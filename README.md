@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning Laravel, by building a [Twitter clone](https://github.com/DemisStruiksma/Twitter-Clone) (Tailwind for styling). 
 - 📫 How to reach me: contact@demis.io.
 - 😄 Pronouns: He/him
+
+[LinkedIn](https://linkedin.com/in/demisstruiksma)
+[Personal site](http://demis.io) (under construction)
