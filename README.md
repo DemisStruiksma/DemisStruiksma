@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development, at an international container company called "CBOX Containers". 
+- 🔭 I’m currently looking for a new developer job opportunity
 - 📫 How to reach me: contact@demisstruiksma.com
 - 😄 Pronouns: He/him
 
